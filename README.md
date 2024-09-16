@@ -1,6 +1,6 @@
 ## Boas vindas ao meu perfil 💙
 
-Meu nome é Laysa 
+Meu nome é Laysa !
 
 - Estou estudando na [Alura](https://wwww.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
